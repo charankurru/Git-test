@@ -5,3 +5,5 @@ New Developers are :
 2) Akhil
 3) Praveen
 4) Leela
+
+Created a local branch <Deployment> from <remote/deployment>
