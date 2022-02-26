@@ -1,0 +1,5 @@
+Tech stack used are :
+1)React
+2)React-native
+3)Nodejs
+4)Mongodb

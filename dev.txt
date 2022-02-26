@@ -1,1 +1,7 @@
 This is an development branch where all the development happens on this branch.
+
+Developers are :
+1) charan
+2) Akhill
+3) Praveen
+4) Nagarjuna
