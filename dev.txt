@@ -14,3 +14,8 @@ function{
         one,two = each[:]
         print(max(each))
 }
+
+
+function2{
+    This function is to find the max number of entire list
+}
