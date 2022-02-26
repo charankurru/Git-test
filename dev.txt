@@ -10,4 +10,7 @@ Created a local branch <Deployment> from <remote/deployment>
 
 
 function{
+    for each in List:
+        one,two = each[:]
+        print(max(each))
 }
