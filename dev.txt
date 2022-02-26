@@ -1,7 +1,7 @@
-This is an development branch where all the development happens on this branch.
+This is an good development solution branch where all the development happens on this branch.
 
-Developers are :
+New Developers are :
 1) charan
-2) Akhill
+2) Akhil
 3) Praveen
-4) Nagarjuna
+4) Leela
